@@ -1,6 +1,6 @@
 # Bread Basket Analysis - Association Rule Mining
 
-A Streamlit application for analyzing retail transaction data using the Apriori algorithm for association rule mining.
+A Streamlit application for analyzing retail transaction data using the Apriori algorithm for association rule mining. Bare in mind that you're going have to upload the braed basket cvs from this repo for everything to work!
 
 ## Features
 
